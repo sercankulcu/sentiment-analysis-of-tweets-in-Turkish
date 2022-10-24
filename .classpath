@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-server-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/weka.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-servlet-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-servlets-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-util-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-ajp-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-annotations-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-client-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-continuation-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-deploy-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-http-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-io-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-jmx-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-jndi-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-overlay-deployer-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-plus-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-policy-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-rewrite-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-security-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-webapp-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-websocket-7.6.16.v20140903.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sercan/Documents/GitHub/twitterdata/lib/jetty-xml-7.6.16.v20140903.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
